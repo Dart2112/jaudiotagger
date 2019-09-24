@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="538b9a39-dee6-4b0b-82ef-8e45c5769c73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RGfmalRzid1qvKuJr9ysIGN9e7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="#com.intellij.j2ee.web.jsr45.JSR45ConfigurationFactory" />
+        <option value="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" />
+        <option value="GeronimoConfiguration" />
+        <option value="GlassfishConfiguration" />
+        <option value="GoogleAppEngineDevServer" />
+        <option value="JBossConfiguration" />
+        <option value="JettyConfiguration" />
+        <option value="ResinConfigurationType" />
+        <option value="TomeeConfiguration" />
+        <option value="WebLogic Instance" />
+        <option value="WebSphereRunConfigurationType" />
+        <option value="com.intellij.dmserver.run.DMServerRunConfigurationType:id" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="538b9a39-dee6-4b0b-82ef-8e45c5769c73" name="Default Changelist" comment="" />
+      <created>1569298513640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569298513640</updated>
+      <workItem from="1569298517105" duration="1290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1569299856695">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="141" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1569299856695" />
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1569299780135">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1569299780135" />
+    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1569299780125">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1569299780125" />
+    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1569299780090">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1569299780090" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1569299780130">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1569299780130" />
+    <state x="347" y="162" key="run.anything.popup" timestamp="1569298648387">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="347" y="162" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1569298648387" />
+  </component>
+</project>
